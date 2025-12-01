@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BUNKA",
+  "base_artist": "環ROY、鎮座DOPENESS、U-zhaan",
+  "createdAt": "2025-12-01T02:26:08.579053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Irayoi Tsukiyahama (Live at Isahaya Bunka Kaikan, 30/10/2001)",
+      "artist": "Begin",
+      "has_synced": false,
+      "path": "select/01_Irayoi_Tsukiyahama_(Live_at_Isahaya_Bunka_Kaikan,_30_10_2001)_Begin.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "BUNKA",
+      "artist": "環ROY、鎮座DOPENESS、U-zhaan",
+      "has_synced": false,
+      "path": "select/pl_BUNKA_環ROY、鎮座DOPENESS、U-zhaan.txt"
+    }
+  ]
+}
